@@ -23,7 +23,7 @@ public class App {
         Tomcat server = new Tomcat();
         // This line  says the variable server is a new instance of the Tomcat class (checkout our dependencies above).
         server.setBaseDir(System.getProperty("java.io.tmpdir"));
-        // This line sets the sever's base director (where its files are stored) as java.io.tmpdir, so they don't clutter our project folder.
+        // This line sets the server's base directory (where its files are stored) as java.io.tmpdir, so they don't clutter our project folder.
         // the java.io.tmpdir is Java's temp directory - more or less -.
         server.getConnector();
         server.addContext("", null);
