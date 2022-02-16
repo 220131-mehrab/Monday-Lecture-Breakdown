@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb5b9784-0046-4eba-9d86-5ff859a0772a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/main/java/com/revature/DavidRiley/Server/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/main/java/com/revature/DavidRiley/Server/Pokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/main/java/com/revature/DavidRiley/Server/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/main/java/com/revature/DavidRiley/Server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/main/resources/N_P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/jPokedexWin/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/test/java/jPokedexWin/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jPokedex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jPokedexWin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N_P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/N_P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/github/DavidRiley/jPokedexWin/jPokedexWin/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/github/DavidRiley/jPokedexWin/jPokedexWin/N_P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/github/DavidRiley/jPokedexWin/jPokedexWin/Pokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/jPokedexWin/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/push-to-checkout.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24vaQ3E2ul2CD0JybvzBaI0fgEg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.DavidRiley.jPokedexWin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jPokedexWin:app [run]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb5b9784-0046-4eba-9d86-5ff859a0772a" name="Changes" comment="" />
+      <created>1644513497165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644513497165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
